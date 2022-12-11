@@ -1,5 +1,12 @@
 # LeetCode_Practice_Questions
 Contains all LeetCode questions which I have attempted. from Easy to medium and of All types.
+        
+Access Leetcode question type Tags..
+    - [Array](https://leetcode.com/tag/array/)
+    -
+    - [String](https://leetcode.com/tag/string/)
+
+    
 ## To search any question, 
     - first go to the type branch like Array, Strings ,Hash Table, Dynamic Programming, Math, Sorting, Greedy etc
     - then go to its difficulty easy, medium, hard
